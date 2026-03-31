@@ -1,5 +1,5 @@
 ## books
-- [main](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf)
+- [main](https://ptgmedia.pearsoncmg.com/images/9780138308681/samplepages/9780138308681_Sample.pdf)
 - [reference](https://drive.google.com/file/d/1gbf-_PrL3VQhu-AuB6JxLLYkk4W0QnUx/view?usp=sharing)
 
 ## ide
