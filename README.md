@@ -1,8 +1,12 @@
-## books:
+## books
 - [main](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf)
 - [reference](https://drive.google.com/file/d/1gbf-_PrL3VQhu-AuB6JxLLYkk4W0QnUx/view?usp=sharing)
 
-## checklist:
+## ide
+- [online -- jdoodle](https://www.jdoodle.com/online-compiler-c++)
+- [vscodium](https://vscodium.com/)
+
+## checklist
 ### basics
 - [ ] install compiler or use online compiler
 - [ ] hello world program
