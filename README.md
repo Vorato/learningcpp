@@ -1,6 +1,8 @@
 ## books
 - [main](https://ptgmedia.pearsoncmg.com/images/9780138308681/samplepages/9780138308681_Sample.pdf)
-- [another](https://simplifycpp.org/books/Book1_Getting_Started_with_Modern_CPP.pdf)
+- simplifycpp
+[book 1](https://simplifycpp.org/books/Book1_Getting_Started_with_Modern_CPP.pdf)
+[book 2](https://simplifycpp.org/books/cpp/Modern_CPP_Handbooks_Book2_Core_Modern_CPP_Features_C%2B%2B11_to_C%2B%2B23_.pdf)
 - [reference](https://drive.google.com/file/d/1gbf-_PrL3VQhu-AuB6JxLLYkk4W0QnUx/view?usp=sharing)
 
 ## ide
