@@ -11,8 +11,8 @@
 ### basics
 - [x] install compiler or use online compiler
 - [x] hello world program
-- [ ] variables and data types
-- [ ] input and output
+- [x] variables and data types
+- [x] input and output
 - [ ] if else and switch
 - [ ] loops
 
