@@ -64,4 +64,5 @@ int main() {
   4. always include a default case in switch
   
   */
+  return 0;
 }
