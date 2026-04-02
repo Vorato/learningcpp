@@ -11,6 +11,7 @@ int main() {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Please input a number." << std::endl;
+    return 0;
   }
   if (age >= 18) { // condition must evaluate to a boolean value
     std::cout << "You are an adult." << std::endl;
@@ -28,6 +29,7 @@ int main() {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Please input a number." << std::endl;
+    return 0;
   }
   char prefix[] = "It is ";
   switch (day) {
