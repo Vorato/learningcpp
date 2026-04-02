@@ -14,7 +14,7 @@ int main() {
   }
   if (age >= 18) { // condition must evaluate to a boolean value
     std::cout << "You are an adult." << std::endl;
-  } else if (age <= 13) {
+  } else if (age >= 13) {
     std::cout << "You are a teenager." << std::endl;
   } else {
     std::cout << "You are a child." << std::endl;
