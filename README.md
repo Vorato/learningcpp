@@ -15,7 +15,7 @@
 - [x] hello world program
 - [x] variables and data types
 - [x] input and output
-- [ ] if else and switch
+- [x] if else and switch
 - [ ] loops
 
 ### core concepts
