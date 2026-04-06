@@ -16,7 +16,7 @@
 - [x] variables and data types
 - [x] input and output
 - [x] if else and switch
-- [ ] loops
+- [x] loops
 
 ### core concepts
 - [ ] functions
